@@ -1,0 +1,28 @@
+
+.errors {
+ background-color: #FFCCCC;
+ border: 1px solid #CC0000;
+ width: 400px;
+ margin-bottom: 8px;
+}
+
+.errors li {
+ list-style: none;
+}
+
+.welcome {
+ background-color: #DDFFDD;
+ border: 1px solid #009900;
+ width: 300px;
+}
+
+.welcome li {
+ list-style: none;
+}
+
+.content{
+ padding: 5px;
+ height: 400px;
+ 
+ border: 2px solid #d0d1d0;
+}
